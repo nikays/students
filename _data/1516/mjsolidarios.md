@@ -1,7 +1,7 @@
-emoji :v: y'all!
+:eyes:
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>  Hi I'm Roseville. I don't know what to say. lol
 
 hugot_lines/other_stuffs
-> "Happiness is just a matter of perspective. It's your choice how to look at the world".
+> "I’m lost, standing and waiting but I’m still in a place where no one knows about."
